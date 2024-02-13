@@ -4,6 +4,9 @@ Basic usage:
 Either run ./goo.py or use a shell script start_goo.sh and put it in GNOME startup applications of your computer
 Choose default audio files or your favourite music/sounds...
 
+Set alarm times in ./data/alarm.json and corresponding audio/text-to-speech content id in ./data/notes.json
+At the given time alarm will buzz with respective audio/video/text-to-speech notes
+
 ********************************************************************************************************************************
 
 Code copyrights: (c) 2023 by Manish R. Ramani
