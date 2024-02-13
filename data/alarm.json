@@ -1,0 +1,51 @@
+[
+    {
+        "name": "start-of-day",
+        "type": "regular-reminder",
+        "time": "10:41:0",
+        "day": "everyday",
+        "alarm-content-id": "0"
+    },
+    {
+        "name": "start-of-day",
+        "type": "regular-reminder",
+        "time": "10:42:0",
+        "day": "everyday",
+        "alarm-content-id": "3"
+    },
+    {
+        "name": "manish",
+        "type": "sporadic-reminder",
+        "max_day_frequency": 7,
+        "day": "everyday",
+        "alarm-content-id": "3"
+    },
+    {
+        "name": "mid-of-day",
+        "type": "regular-reminder",
+        "time": "15:07:0",
+        "day": "everyday",
+        "alarm-content-id": "0"
+    },
+    {
+        "name": "end-of-day",
+        "type": "regular-reminder",
+        "time": "19:07:0",
+        "day": "everyday",
+        "alarm-content-id": "0"
+    },
+    {
+        "name": "end-of-day",
+        "type": "regular-reminder",
+        "time": "21:07:0",
+        "day": "everyday",
+        "alarm-content-id": "0"
+    },
+    {
+        "name": "end-of-day",
+        "type": "regular-reminder",
+        "time": "23:07:0",
+        "day": "everyday",
+        "alarm-content-id": "0"
+    }
+]

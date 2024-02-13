@@ -1,0 +1,32 @@
+2024-02-13 10:33:05.884547
+Entering get_todays_sporadic_times with arguments: (<goo_times.GooTimes object at 0x7f80da2a6a70>,), {}
+Exiting get_todays_sporadic_times with result: ['05:03', '07:03', '07:33', '08:03', '08:33', '12:33', '13:03', '13:33', '15:03', '15:37', '17:03', '17:37', '19:03', '20:37', '21:33', '22:33', '22:37']
+******************************
+2024-02-13 10:33:05.886233
+Entering get_todays_sporadic_times with arguments: (<goo_times.GooTimes object at 0x7f80da2a6a70>,), {}
+Exiting get_todays_sporadic_times with result: ['05:03', '07:03', '07:33', '08:03', '08:33', '12:33', '13:03', '13:33', '15:03', '15:37', '17:03', '17:37', '19:03', '20:37', '21:33', '22:33', '22:37']
+******************************
+2024-02-13 10:40:52.439457
+Entering get_todays_sporadic_times with arguments: (<goo_times.GooTimes object at 0x7f845010bfd0>,), {}
+Exiting get_todays_sporadic_times with result: ['05:33', '07:03', '07:33', '08:03', '12:03', '12:33', '12:37', '13:03', '13:37', '17:37', '19:33', '20:03', '20:33', '20:37', '21:03', '21:33', '22:33']
+******************************
+2024-02-13 10:40:52.441854
+Entering get_todays_sporadic_times with arguments: (<goo_times.GooTimes object at 0x7f845010bfd0>,), {}
+Exiting get_todays_sporadic_times with result: ['05:33', '07:03', '07:33', '08:03', '12:03', '12:33', '12:37', '13:03', '13:37', '17:37', '19:33', '20:03', '20:33', '20:37', '21:03', '21:33', '22:33']
+******************************
+2024-02-13 10:41:55.451286
+Entering get_todays_sporadic_times with arguments: (<goo_times.GooTimes object at 0x7f65365a9540>,), {}
+Exiting get_todays_sporadic_times with result: ['05:03', '05:33', '07:03', '07:33', '08:03', '12:03', '12:33', '13:03', '13:33', '15:33', '15:37', '17:37', '20:03', '20:33', '20:37', '21:03', '21:33']
+******************************
+2024-02-13 10:41:55.453097
+Entering get_todays_sporadic_times with arguments: (<goo_times.GooTimes object at 0x7f65365a9540>,), {}
+Exiting get_todays_sporadic_times with result: ['05:03', '05:33', '07:03', '07:33', '08:03', '12:03', '12:33', '13:03', '13:33', '15:33', '15:37', '17:37', '20:03', '20:33', '20:37', '21:03', '21:33']
+******************************
+2024-02-13 10:42:03.162093
+Entering get_todays_sporadic_times with arguments: (<goo_times.GooTimes object at 0x7f2312aad540>,), {}
+Exiting get_todays_sporadic_times with result: ['05:03', '07:33', '12:03', '12:33', '12:37', '13:33', '15:03', '15:33', '15:37', '17:33', '19:03', '19:37', '20:03', '20:37', '21:37', '22:03', '22:33']
+******************************
+2024-02-13 10:42:03.164171
+Entering get_todays_sporadic_times with arguments: (<goo_times.GooTimes object at 0x7f2312aad540>,), {}
+Exiting get_todays_sporadic_times with result: ['05:03', '07:33', '12:03', '12:33', '12:37', '13:33', '15:03', '15:33', '15:37', '17:33', '19:03', '19:37', '20:03', '20:37', '21:37', '22:03', '22:33']
+******************************
